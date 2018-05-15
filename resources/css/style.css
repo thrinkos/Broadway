@@ -12,7 +12,8 @@ color: {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
-  color; white;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 .home {
@@ -32,4 +33,19 @@ color: {
 
 .wefocus {
   font-size: 14px;
+}
+
+.newyork {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+
 }
